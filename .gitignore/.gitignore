@@ -1,0 +1,93 @@
+// leson1.cpp : Defines the entry point for the console application.
+//
+
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+	cout << " \_\_  \_\_            \_" << endl;
+	cout << "\|  \\\/  \|          \(\_\)" << endl;
+	cout << "\| \.  \. \| \_\_ \_ \_ \_\_ \_ \_ \_\_    \_\_ \_" << endl;
+	cout << "\| \|\\/\| \|\/ \_\` \| \'\_\_\| \| \'\_ \\  \/ \_\` \|" << endl;
+	cout << "\| \|  \| \| \(\_\| \| \|  \| \| \| \| \|  \(\_\| \|" << endl;
+	cout << "\\\_\|  \|\_\/\\\_\_\,\_\|\_\|  \|\_\|\_\| \|\_\|\ \\_\_\,\_\|" << endl;
+	system("pause");
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// avi.cpp : Defines the entry point for the console application.
+//
+
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+	cout << "               AAA                               iiii" << endl;
+	cout << "              A:::A                             i::::i" << endl;
+	cout << "             A:::::A                             iiii" << endl;
+	cout << "            A:::::::A" << endl;
+	cout << "           A:::::::::AVVVVVVV           VVVVVVViiiiiiii" << endl;
+	cout << "          A:::::A:::::AV:::::V         V:::::V i::::::i" << endl;
+	cout << "         A:::::A A:::::AV:::::V       V:::::V   i::::i" << endl;
+	cout << "        A:::::A   A:::::AV:::::V     V:::::V    i::::i" << endl;
+	cout << "       A:::::A     A:::::AV:::::V   V:::::V     i::::i" << endl;
+	cout << "      A:::::AAAAAAAAA:::::AV:::::V V:::::V      i::::i" << endl;
+	cout << "     A:::::::::::::::::::::AV:::::V:::::V       i::::i" << endl;
+	cout << "    A::::::AAAAAAAAAAA::::::AV:::::::::V        i::::i" << endl;
+	cout << "   A::::::A           A::::::AV:::::::V        i::::::i" << endl;
+	cout << "  A::::::A             A::::::AV:::::V         i::::::i" << endl;
+	cout << " A::::::A               A::::::AV:::V          i::::::i" << endl;
+	cout << "AAAAAAAA                 AAAAAAAAVVV           iiiiiiii" << endl;
+	system("pause");
+
+}
+
+
